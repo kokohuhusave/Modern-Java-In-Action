@@ -8,4 +8,4 @@
 ### Part Ⅰ 기초
 * [Chapter 1 - 자바 8, 9, 10, 11 : 무슨 일이 일어나고 있는가](https://skinny-flock-45f.notion.site/1-15eb43e02ebe80fa9203c483be42df74)
 * [Chapter 2 - 동작 파라미터화 코드 전달하기](https://skinny-flock-45f.notion.site/2-15eb43e02ebe80c9a4e5fbbaacdcf8ef?pvs=4)
-* [Chapter 3 - 람다 표현식](https://skinny-flock-45f.notion.site/3-160b43e02ebe8091b06af49d63b71a7e) - 진행중
+* [Chapter 3 - 람다 표현식](https://skinny-flock-45f.notion.site/3-160b43e02ebe8091b06af49d63b71a7e)
