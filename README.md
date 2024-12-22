@@ -12,3 +12,4 @@
 
 ### Part Ⅱ 함수형 데이터 처리
 * [Chapter 4 - 스트림 소개](https://skinny-flock-45f.notion.site/4-161b43e02ebe807799b8c8c56af3ab3c)
+* [Chapter 5 - 스트림 활용](https://skinny-flock-45f.notion.site/5-164b43e02ebe8070b146c4f765b0d321)
