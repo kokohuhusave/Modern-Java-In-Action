@@ -13,3 +13,4 @@
 ### Part Ⅱ 함수형 데이터 처리
 * [Chapter 4 - 스트림 소개](https://skinny-flock-45f.notion.site/4-161b43e02ebe807799b8c8c56af3ab3c)
 * [Chapter 5 - 스트림 활용](https://skinny-flock-45f.notion.site/5-164b43e02ebe8070b146c4f765b0d321)
+* [Chapter 6 - 스트림으로 데이터 수집](https://skinny-flock-45f.notion.site/6-166b43e02ebe808a9d0ccf2d1c2ae91d?pvs=4)
